@@ -1,5 +1,33 @@
-<h1 align="center">Hi 👋, I'm 📱 Mobile Developer | Multitechnology Expert | UI Design Enthusiast | Passion for Teamwork 🚀</h1>
-<h3 align="center">Greetings! I am a dedicated mobile developer with over 2 years of hands-on experience in contributing to the success of a startup outsourcing/product-based company. In this dynamic environment, I actively engage in the development of multiple applications, gaining valuable insights into various business logics and utilizing diverse services such as maps, payment processes, and KYC authentication. 💡 Key Expertise: Mobile Platforms: Proficient in iOS development using Swift and Objective-C, Android development with Java, and Cross-platform development using Flutter. Frontend Skills: I bring my passion for UI design to create visually appealing and user-friendly interfaces for the applications I work on. Backend Proficiency: My experiences in handling different business logics involve integrating backend components seamlessly, enhancing the overall functionality of the applications. Integration of Services: I have successfully incorporated various services, including maps, payment processes, and KYC authentication, enhancing the overall functionality of the applications. CI/CD Processes: Well-versed in managing the CI/CD process using GitHub, Google Play Console, and AppStore/Testflight to ensure efficient and streamlined development workflows. 🏗️ Project Experience: iOS Development: Proficient in Swift and Objective-C, contributing to the creation of innovative and robust iOS applications. Android Development: Expertise in Java for Android, ensuring the development of high-quality and performance-oriented Android applications. Cross-Platform Development: Skilled in Flutter, enabling the development of cross-platform applications that cater to a wider audience. 🔧 Technical Skills: CI/CD Processes: Hands-on experience with GitHub, Google Play Console, AppStore/Testflight for continuous integration and deployment. Languages: Swift, Objective-C, Java, Flutter. Services: Integration of maps, payment processes, KYC authentication. 🚀 Passion for Teamwork: I thrive in a collaborative environment, contributing to the success of the team by effectively managing time and ensuring projects meet their deadlines without compromising quality. I am enthusiastic about leveraging my skills to contribute to the ongoing success of our startup and deliver outstanding mobile experiences. Let's collaborate to drive innovation and excellence!</h3>
+<h1>Greetings! 👋</h1>
+  <p>I am a dedicated mobile developer with over 2 years of hands-on experience in contributing to the success of a startup outsourcing/product-based company. In this dynamic environment, I actively engage in the development of multiple applications, gaining valuable insights into various business logics and utilizing diverse services such as maps, payment processes, and KYC authentication.</p>
+
+  <h2>💡 Key Expertise:</h2>
+  <ul>
+    <li><strong>Mobile Platforms:</strong> Proficient in iOS development using Swift and Objective-C, Android development with Java, and Cross-platform development using Flutter.</li>
+    <li><strong>Frontend Skills:</strong> I bring my passion for UI design to create visually appealing and user-friendly interfaces for the applications I work on.</li>
+    <li><strong>Backend Proficiency:</strong> My experiences in handling different business logics involve integrating backend components seamlessly, enhancing the overall functionality of the applications.</li>
+    <li><strong>Integration of Services:</strong> I have successfully incorporated various services, including maps, payment processes, and KYC authentication, enhancing the overall functionality of the applications.</li>
+    <li><strong>CI/CD Processes:</strong> Well-versed in managing the CI/CD process using GitHub, Google Play Console, and AppStore/Testflight to ensure efficient and streamlined development workflows.</li>
+  </ul>
+
+  <h2>🏗️ Project Experience:</h2>
+  <ul>
+    <li><strong>iOS Development:</strong> Proficient in Swift and Objective-C, contributing to the creation of innovative and robust iOS applications.</li>
+    <li><strong>Android Development:</strong> Expertise in Java for Android, ensuring the development of high-quality and performance-oriented Android applications.</li>
+    <li><strong>Cross-Platform Development:</strong> Skilled in Flutter, enabling the development of cross-platform applications that cater to a wider audience.</li>
+  </ul>
+
+  <h2>🔧 Technical Skills:</h2>
+  <ul>
+    <li><strong>CI/CD Processes:</strong> Hands-on experience with GitHub, Google Play Console, AppStore/Testflight for continuous integration and deployment.</li>
+    <li><strong>Languages:</strong> Swift, Objective-C, Java, Flutter.</li>
+    <li><strong>Services:</strong> Integration of maps, payment processes, KYC authentication.</li>
+  </ul>
+
+  <h2>🚀 Passion for Teamwork:</h2>
+  <p>I thrive in a collaborative environment, contributing to the success of the team by effectively managing time and ensuring projects meet their deadlines without compromising quality.</p>
+
+  <p>I am enthusiastic about leveraging my skills to contribute to the ongoing success of our startup and deliver outstanding mobile experiences. Let's collaborate to drive innovation and excellence!</p>
 
 - 🌱 I’m currently learning **web3 and ML connections with mobile apps**
 
