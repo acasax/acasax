@@ -1,5 +1,5 @@
 <h1>Greetings! 👋</h1>
-  <p>I am a dedicated mobile developer with over 2 years of hands-on experience in contributing to the success of a startup outsourcing/product-based company. In this dynamic environment, I actively engage in the development of multiple applications, gaining valuable insights into various business logics and utilizing diverse services such as maps, payment processes, and KYC authentication.</p>
+  <p>I am a dedicated mobile developer with over 4 years of hands-on experience in contributing to the success of a startup outsourcing/product-based company. In this dynamic environment, I actively engage in the development of multiple applications, gaining valuable insights into various business logics and utilizing diverse services such as maps, payment processes, and KYC authentication.</p>
 
 - 🌱 I’m currently learning **web3 and ML connections with mobile apps**
 
