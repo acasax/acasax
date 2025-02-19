@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **acasax@gmail.com**
 
-- ⚡ Fun fact **I love to read business and epic fantastic book, travel and play NBA2k24**
+- ⚡ Fun fact **I love to read business and epic fantastic book, travel and play NBA2k25**
 
 <p align="left">
 </p>
